@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kevin Jair Chávez Castro
 
-🎮 Software & VideoGames Developer with a strong interest in interactive systems  
-🧠 Focused on gameplay logic, structure and clean solutions  
+🎮 Software & Game Developer with a strong interest in interactive systems  
+🧠 Interested in gameplay logic, structure and clean solutions  
 
 I enjoy building things that make sense — systems that feel responsive,
 well-organized and easy to understand. My work is mainly focused on
@@ -12,8 +12,8 @@ I approach development with a professional mindset, taking care of structure,
 readability and long-term maintainability. I value clear communication,
 consistent progress and continuous learning as part of my daily workflow.
 
-At the moment, I’m refining my development process and preparing projects
-to be presented with a polished, production-ready standard.
+Currently, I’m refining my development process and preparing projects
+to meet a polished, production-ready standard.
 
 ---
 
@@ -25,6 +25,7 @@ to be presented with a polished, production-ready standard.
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+
 
 ---
 
