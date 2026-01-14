@@ -1,19 +1,23 @@
 # 👋 Hi, I'm Kevin Jair Chávez Castro
 
-🎮 Software & Game Developer  
-🧩 Focused on gameplay systems and interactive solutions  
+🎮 Software & VideoGames Developer with a strong interest in interactive systems  
+🧠 Focused on gameplay logic, structure and clean solutions  
 
-I work with **Unreal Engine (Blueprints)** and **Unity (C#)**, with a strong foundation
-in C++, JavaScript and HTML/CSS. My interest is centered on building clear,
-functional systems for games and software.
+I enjoy building things that make sense — systems that feel responsive,
+well-organized and easy to understand. My work is mainly focused on
+**Unreal Engine (Blueprints)** and **Unity (C#)**, supported by a solid
+foundation in C++, JavaScript and HTML/CSS.
 
-I approach development with a professional mindset, focusing on structure,
-readability and continuous improvement. I’m currently refining my workflow
-and preparing projects to be presented at a production-ready level.
+I approach development with a professional mindset, taking care of structure,
+readability and long-term maintainability. I value clear communication,
+consistent progress and continuous learning as part of my daily workflow.
+
+At the moment, I’m refining my development process and preparing projects
+to be presented with a polished, production-ready standard.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Tools
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5-313131?logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-C%23-000000?logo=unity&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus)
@@ -21,11 +25,10 @@ and preparing projects to be presented at a production-ready level.
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
 ## 🎯 Professional Focus
-I’m interested in contributing to software or game development environments,
-working on interactive systems, gameplay mechanics and well-structured solutions,
-with responsibility and clear communication.
+I’m interested in contributing to software or game development environments
+where I can work on interactive systems, gameplay mechanics and well-structured
+solutions, while collaborating with others and growing as a developer.
